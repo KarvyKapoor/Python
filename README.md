@@ -12,7 +12,7 @@ Welcome to my Python lab repository! This collection includes all the Python pro
 
 College: Inderprastha Engineering College
 
-Course: B.Tech in Computer Science
+Course: B.Tech in Computer Science and Engineering
 
 Subject: Python Programming Lab
 
